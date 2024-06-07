@@ -1,4 +1,4 @@
-# App StockAgil
+# App Conscientização Ambiental
 ### Entrega GS
 
 ## Descrição
@@ -19,13 +19,6 @@ Esta entrega da GS é uma aplicação para conscientizar as pessoas a preservar 
 1. Clone o repositório.
 2. Configure o banco de dados no arquivo `application.properties`.
 3. Rode o comando `GsApplication`.
-
-## Endpoints Entrega Sprint2
-- `POST /api/produto`: Cria um novo produto.
-- `GET /api/produto/{id}`: Retorna um produto pelo ID.
-- `GET /api/produto`: Retorna todos os produtos.
-- `PUT /api/produto/{id}`: Atualiza um produto pelo ID.
-- `DELETE /api/produto/{id}`: Deleta um produto pelo ID.
 
 ## Endpoints gs
 - `GET /api/inciativas/pesquisar-nome?parteNome={}`: Retorna o nome da iniciativa.
